@@ -1,0 +1,32 @@
+.main-footer{
+    background-color: #000000;
+    border: solid 2px red;
+    position: absolute;
+width: 100%;
+
+padding-top: 50px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+
+}
+
+
+.footer-image
+{
+    height: 100px;
+
+}
+
+
+.footer-notes{
+    border: solid 2px red;
+    color: rgba(23, 255, 124, 0.438);
+    
+}
+
+
+.align-phrase{
+    display: flex;
+    justify-content: flex-end;
+}
