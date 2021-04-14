@@ -1,13 +1,14 @@
 .main-footer{
     background-color: #000000;
-    border: solid 2px red;
+    border: solid 2px #3ec38c;
     
 width: 100%;
 
 padding-top: 32px;
 padding-bottom: 32px;
 display: flex;
-justify-content: center;
+justify-content:space-evenly;
+
 
 }
 
@@ -20,14 +21,20 @@ justify-content: center;
 
 
 .footer-notes{
-    border: solid 2px red;
+
     color: rgba(23, 255, 124, 0.438);
+    text-align: justify;
     
 }
 
 
 .align-phrase{
-    display: flex;
-    align-self: stretch;
-    color: chartreuse;
+    background-color: #000000;
+
+    
+
+padding-left: 100px;
+padding-top: 32px;
+padding-bottom: 32px;
+
 }
